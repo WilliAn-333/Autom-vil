@@ -11,6 +11,6 @@ package ec.edu.espoch.automovil3;
 public class Automovil3 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("AUTOMOVIL");
     }
 }
