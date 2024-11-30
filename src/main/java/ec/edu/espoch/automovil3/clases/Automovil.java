@@ -1,6 +1,10 @@
 package ec.edu.espoch.automovil3.clases;
 
 //clase autommovil
+
+import ec.edu.espoch.automovil3.clases.tipoCombustible.TipoCombustible;
+import java.awt.Color;
+
 public class Automovil {
 
     /*creacion de las caracteristicas de la clase
